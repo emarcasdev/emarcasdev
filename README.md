@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hola, soy Eder Martínez 👋<br>Soy un joven programador en formación con 18 años procedente de España. Después de cursar el CM en Sistemas Microinformáticos en Red, me he embarcado a aprender programación más a fondo y estoy cursando el CS de desarrollo de Aplicaciones Web y la Multiplataforma.<br>Me encantaría aprender y crecer en el mundo de la programación, me gustaría buscar oportunidades para contribuir y seguir desarrollándome profesionalmente y aumentar mis conocimientos.
 <p></p>
-###NOTA
+## NOTA
 En tech stack son las herramientas que estoy aprendiendo en el CS y investigando por mi cuenta, así que no tengo control total de ellas ya que tadavia estoy en formación pero tengo las bases y los conocimientos básicos de las herramientas.
 
 
