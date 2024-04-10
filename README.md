@@ -4,7 +4,7 @@ Hola, soy Eder Martínez 👋<br>Soy un joven programador en formación con 18 a
 
 ### NOTA
 
-En tech stack son las herramientas que estoy aprendiendo en el CS y investigando por mi cuenta, así que no tengo control total de ellas ya que tadavia estoy en formación pero tengo las bases y los conocimientos básicos de las herramientas.
+En tech stack son las herramientas que estoy aprendiendo en el CS y investigando por mi cuenta, y poseo una base y conocimientos básicos de estas herramientas. Sin embargo, no tengo un control total sobre ellas debido a mi estado de aprendizaje.
 
 
 ## 🌐 Socials:
