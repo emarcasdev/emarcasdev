@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Eder Martínez 👋<br>Estoy estudiando programación, tengo 19 años y soy de España. Después de cursar el CM en Sistemas Microinformáticos en Red, me he embarcado a aprender programación más a fondo y estoy cursando el CS de desarrollo de Aplicaciones Web y la Multiplataforma.<br>Me encantaría aprender y crecer en el mundo de la programación, me gustaría buscar oportunidades para contribuir y seguir desarrollándome profesionalmente y aumentar mis conocimientos.
+Hola, soy Eder Martínez 👋<br>Estoy estudiando programación, tengo 19 años y soy de España. Después de cursar el CM en Sistemas Microinformáticos en Red, empecé a aprender programación más a fondo y estoy cursando el CS de desarrollo de Aplicaciones Web.<br>Me encantaría aprender y crecer en el mundo de la programación, me gustaría buscar oportunidades para contribuir y seguir desarrollándome profesionalmente y aumentar mis conocimientos.
 <p></p>
 
 ### NOTA
