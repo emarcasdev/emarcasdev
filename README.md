@@ -1,4 +1,4 @@
-<<h1 align="left">Hola, soy Eder 👋</h1>
+<h1 align="left">Hola, soy Eder 👋</h1>
 
 ###
 
@@ -75,12 +75,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="55" alt="slack logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/emarcasdev/emarcasdev/output/snake.svg" alt="Snake animation" />
 
 ###
 
