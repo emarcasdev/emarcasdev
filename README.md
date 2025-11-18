@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Trabajando como desarrollador de software desde 2025.<br>📚 Actualmente aprendiendo IA y desarrollo multiplataforma.<br>🎯 Objetivo: seguir creciendo día a día como desarrollador de software.<br>🤓 Dato curioso: empecé a trabajar como desarrollador a los 19 años.</p>
+<p align="left">👨‍💻 Trabajando como desarrollador de software desde 2025.<br>📚 Actualmente aprendiendo IA y desarrollo multiplataforma.<br>🎯 Objetivo: seguir creciendo día a día como desarrollador de software.</p>
 
 ###
 
