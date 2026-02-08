@@ -77,7 +77,9 @@
 
 ###
 <div align="center">
-  ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/emarcasdev?cardType=level&theme=tokyonight&fontFamily=JetBrains%20Mono&preferLogin=false)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=JetBrains%20Mono&preferLogin=false">
+    <img  alt="emarcasdev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/emarcasdev?cardType=level&theme=tokyonight&fontFamily=JetBrains%20Mono&preferLogin=false" />
+  </a>
 </div>
 
 <div align="center">
