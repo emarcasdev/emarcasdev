@@ -1,5 +1,7 @@
 <h1 align="left">Hola, soy Eder 👋</h1>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/emarcasdev?cardType=level&theme=tokyonight&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card
+
 ###
 
 <p align="left">Actualmente trabajo como desarrollador Front-end, aunque también realizo trabajos de Back-end y desarrollo de aplicaciones móviles más como hobby pero esto me ayuda a crecer y a ser más polivalente.</p>
