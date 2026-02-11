@@ -1,5 +1,4 @@
 <h1 align="left">Hola, soy Eder 👋</h1>
-###
 
 <p align="left">Actualmente trabajo como desarrollador Front-end, aunque también realizo trabajos de Back-end y desarrollo de aplicaciones móviles más como hobby pero esto me ayuda a crecer y a ser más polivalente.</p>
 
