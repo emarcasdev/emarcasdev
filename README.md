@@ -7,8 +7,6 @@
 
 <h2 align="left">Sobre mí</h2>
 
-###
-
 <p align="left">👨‍💻 Trabajando como desarrollador de software desde 2025.<br>📚 Actualmente aprendiendo IA y desarrollo multiplataforma.<br>🎯 Objetivo: seguir creciendo día a día como desarrollador de software.</p>
 
 ###
